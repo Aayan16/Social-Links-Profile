@@ -86,7 +86,7 @@ a:hover{
 }
 @media screen and (max-width: 370px) {
     .container{
-        width: 95%;
+        width: 92%;
      }
     .profile-pic{
         width: 30%;
